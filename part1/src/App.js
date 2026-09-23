@@ -1,6 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 
+/**
+ * Root component for Full Stack Bootcamp Part 1 introductory exercises.
+ * @returns {JSX.Element}
+ */
 function App() {
   return (
     <div className="App">
