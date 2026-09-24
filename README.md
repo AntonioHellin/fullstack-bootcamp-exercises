@@ -21,8 +21,8 @@ A structured course repository containing practical exercises, modules, and star
 
 1. Clone the repository and navigate to the root directory:
    ```bash
-   git clone https://github.com/AntonioHellin/fullstackbootcamp.git
-   cd fullstackbootcamp
+   git clone https://github.com/AntonioHellin/fullstack-bootcamp-exercises.git
+   cd fullstack-bootcamp-exercises
    ```
 
 2. Navigate to the module of interest (for example, `part1`):
